@@ -1,6 +1,6 @@
 # 암호화폐 지갑
 
-개인 월렛 보안에 관한 초보자 안내서
+H채널구독자를 위한 개인 월렛 보안에 관한 초보자 안내서
 
 ![img](https://github.com/BettySuna/wallet/blob/master/img/01.%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%9B%94%EB%A0%9B.jpg?raw=true)
 
@@ -24,14 +24,11 @@
 
 ![img](https://github.com/BettySuna/wallet/blob/master/img/03.%ED%94%84%EB%9D%BC%EC%9D%B4%EB%B9%97%ED%82%A4%EC%99%80%ED%8D%BC%EB%B8%94%EB%A6%BF%ED%82%A4.jpg?raw=true)
 
+| 지갑의 생성순서                                              |
+| ------------------------------------------------------------ |
+| 씨드키(Seed Value) <-> 프라이빗키(Private Key) -> 공개키(Public Key) -> 코인주소(Address) |
 
 
-- 지갑의 생성순서
-  
-
-  - ### ***Seed Value -> Private Key -> Public Key -> Address***
-
-  
 
 ![img](https://github.com/BettySuna/wallet/blob/master/img/05.%EB%B8%94%EB%9F%AD%EC%B2%B4%EC%9D%B8%EC%A7%80%EA%B0%91%EA%B5%AC%EC%A1%B0%EB%8F%84.jpg?raw=true)
 
